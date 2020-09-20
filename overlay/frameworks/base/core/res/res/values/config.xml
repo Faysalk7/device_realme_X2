@@ -1197,5 +1197,11 @@
     <item name="proximity_sensor_secondary_threshold" translatable="false" format="float"
           type="dimen">4.99</item>
 
+<<<<<<< HEAD
 >>>>>>> 76efea8... RMX1921:overlay: enable AOSP dual proximity approach via overlay
+=======
+    <!-- Custom proximity sensor to be used for pocket detection and doze -->
+    <string name="config_customProximitySensor">"qti.sensor.proximity_fake"</string>
+
+>>>>>>> 4837027... RMX1921: overlay: use custom proximity sensor for pocket judge and doze
 </resources>
