@@ -667,8 +667,7 @@
     -->
     <fraction name="config_maximumScreenDimRatio">20.000004%</fraction>
      <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
-     <integer name="config_lightSensorWarmupTime">250</integer>
-
+    
     <!-- The bounding path of the cutout region of the main built-in display.1
          Must either be empty if there is no cutout region, or a string that is parsable by
          {@link android.util.PathParser}.
